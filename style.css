@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+    height: 100%;
+    width: 100%;
+}
+
+#container{
+    width: 1060px;
+	border: 1px solid grey;
+	margin: 0 auto;
+}
+
+#title{
+    font-family: 'Bangers', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    background: linear-gradient(#ffc163, #fa9d0f);
+    padding: 10px;
+}
+
+#subTitle{
+    padding: 10px;
+    font-size: 28px;
+    text-align: center;
+}
+
+div{
+    padding: 20px;
+}
+
+.statsContainer{
+    text-align: center;
+    float: right;
+    display: inline-block;
+}
+
+.locationContainer{
+    display: inline-block;
+}
+
+.dataContainer{
+    border: 3px solid black;
+    width: 800px;
+    margin: 15px auto;
+    background: linear-gradient(#91ffa9, #45ff6d);
+    box-shadow: 4px 4px 25px 1px #95ff8f;
+    
+}
+
+h4{
+    font-size: 85%;
+    color: #3a21b8;
+    font-weight: 5000;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+}
+
+#country{
+    font-family: 'Bangers', sans-serif;
+    font-size: 35px;
+}
+
+#green{
+    color: #15451d;
+}
+
+#red{
+    color: #bd0909;
+}
+
+#blue{
+    color: #00dbb7;
+}
+
+#yellow{
+    color: #f0ed67;
+}
+
+.subFont{
+    font-family: 'Bangers', sans-serif;
+}
+
+#reference{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Bangers', sans-serif;
+    font-size: 35px;
+}
